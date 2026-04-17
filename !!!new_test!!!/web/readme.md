@@ -1,0 +1,1 @@
+# 注意：qwebchannel.js 为pyside6提供的通信用途工具包，严禁删改！！！
